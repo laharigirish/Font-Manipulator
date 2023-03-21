@@ -1,0 +1,26 @@
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #7d8e91;
+    font-size: medium;
+    color: white;
+    font-weight: bolder;
+}
+.footer{
+    width: 100%;
+    background-color: lightblue;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    font-weight: bold;
+}
+canvas{
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px lightskyblue;
+}
